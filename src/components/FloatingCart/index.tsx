@@ -1,5 +1,6 @@
-import React, { useState, useMemo } from 'react';
+import React, { useMemo } from 'react';
 
+// import { useNavigation } from '@react-navigation/native';
 import { useNavigation } from '@react-navigation/native';
 
 import FeatherIcon from 'react-native-vector-icons/Feather';
